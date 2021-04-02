@@ -1,4 +1,4 @@
-- ![capa)](C:\Users\Monk\Desktop\Projetos\Git\perfil\capa.png)
+- ![(capa1)](C:\Users\Monk\Desktop\Projetos\Git\Perfil\capa1.png)
 
   # Hi 👋, I'm Michelle Marques
 
@@ -12,7 +12,8 @@
   - 👯 I’m a beginner student of programming language
   - :wink:Wordpress, ​HTM, CSS, JavaScript, Java​
   - 👨‍💻 All of my projects are available at https://github.com/michellemarques
-- :bomb: My professional qualification training in Telecommunications and Mechatronics
+  - :bomb: My professional qualification training in Telecommunications and Mechatronics
+  
   - :sunglasses:**Currently migrating to the technology area**
   - :heart: Curiosity: I love cats​
   
