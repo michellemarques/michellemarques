@@ -1,4 +1,4 @@
-![(capa1)](C:\Users\Monk\Desktop\Projetos\Git\Perfil\capa1.png)
+![(capa1)](https://github.com/michellemarques/michellemarques.github.io/blob/master/capa1.png)
 
   # Hi 👋, I'm Michelle Marques
 
